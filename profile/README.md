@@ -16,4 +16,4 @@ The Phoenix Firestorm Project is currently active in developing the [Firestorm V
 
 ---
 
-The source code to our Viewers can be found [here](https://github.com/FirestormViewer/phoenix-firestorm), but we do not provide support for [compiling the viewer](https://wiki.firestormviewer.org/fs_compiling_firestorm).
+The source code to our viewer can be found [here](https://github.com/FirestormViewer/phoenix-firestorm), but we do not provide support for [compiling the viewer](https://wiki.firestormviewer.org/fs_compiling_firestorm).
