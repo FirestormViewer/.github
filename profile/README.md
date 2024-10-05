@@ -12,7 +12,7 @@ The Phoenix Firestorm Project Inc. is a non-profit, incorporated organization wh
 
 <img align="left" width="100" height="100" src="images/FSLogoTrans.png" alt="Logo of the Firestorm viewer"/>
 
-The Phoenix Firestorm Project is currently active in developing the [Firestorm Viewer](https://www.firestormviewer.org), the successor to the now discontinued Phoenix Viewer. Firestorm Viewer is based on the Linden Lab [Second Life Viewer LGPL code base](https://github.com/secondlife/viewer) and has an enormous number of features, options and interface customization choices, including a look similar to its predecessor Phoenix Viewer. Firestorm is developed for Windows, Linux and Mac OS X operating systems.
+The Phoenix Firestorm Project is currently active in developing the [Firestorm Viewer](https://www.firestormviewer.org), the successor to the now discontinued Phoenix Viewer. Firestorm Viewer is based on the Linden Lab [Second Life Viewer LGPL code base](https://github.com/secondlife/viewer) and has an enormous number of features, options and interface customization choices, including a look similar to its predecessor Phoenix Viewer. Firestorm is developed for Windows, Linux and macOS operating systems.
 
 ---
 
